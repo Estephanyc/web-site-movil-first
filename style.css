@@ -1,0 +1,33 @@
+.center
+{
+    text-align: center;
+    margin-top: 50px;
+}
+/*.gallery
+{
+    border: 1px solid #b4afaf;
+}
+
+.gallery img
+{
+width: 100%;
+padding: 5px;
+}
+*/
+.salmon
+{
+    background-color: #ed7e71;
+    color: #ffffff;
+}
+.space{
+    padding-top: 50px
+}
+.footer
+{
+    padding: 10px 0;
+}
+
+.pd{
+    padding: 3% 0;
+}
+    
